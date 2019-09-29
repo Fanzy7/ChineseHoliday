@@ -1,4 +1,6 @@
 利用Python，爬取国务院每年通知的节假日放假和调休日期。
 目标：爬虫的基本原理，正则表达式，iPhone上捷径编写
 
-参考代码：
+参考代码：https://github.com/greenliao/Holidays-crawler
+
+Python库 BeautifulSoup
